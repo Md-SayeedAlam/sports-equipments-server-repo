@@ -112,7 +112,7 @@ DB_PASS=Your Mongo Db user password
 
 ## Usage
 
-Run `npm run dev` to run the project locally.
+Run `nodemon index.js` to run the project locally.
 
 
 
